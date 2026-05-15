@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/78569d05-5e35-478c-86b8-82a0bebd3dff" />
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/26a5c1d7-2f2f-4a11-923a-bdbc0ff93b03" />
+
 # SmartClass Sierra Leone
 
 ## Project Overview
